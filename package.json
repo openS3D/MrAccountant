@@ -1,0 +1,26 @@
+{
+  "name": "mraccountant",
+  "version": "1.0.0",
+  "description": "One Stop solution for your financial wellness.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/openS3D/MrAccountant.git"
+  },
+  "author": "meShakti",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/openS3D/MrAccountant/issues"
+  },
+  "homepage": "https://github.com/openS3D/MrAccountant#readme",
+  "dependencies": {
+    "next": "^9.3.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
