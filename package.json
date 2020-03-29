@@ -19,8 +19,11 @@
   },
   "homepage": "https://github.com/openS3D/MrAccountant#readme",
   "dependencies": {
+    "@zeit/next-css": "^1.0.1",
+    "bootstrap": "^4.4.1",
     "next": "^9.3.2",
     "react": "^16.13.1",
+    "react-bootstrap": "^1.0.0",
     "react-dom": "^16.13.1"
   }
 }
